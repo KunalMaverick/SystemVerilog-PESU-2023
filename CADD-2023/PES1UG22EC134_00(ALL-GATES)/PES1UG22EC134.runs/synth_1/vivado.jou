@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Aug 22 20:48:23 2023
+# Process ID: 17524
+# Current directory: /home/kunal/Kunal_PES1UG22EC134/Kunal_PES1UG22EC134.runs/synth_1
+# Command line: vivado -log testing1004.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source testing1004.tcl
+# Log file: /home/kunal/Kunal_PES1UG22EC134/Kunal_PES1UG22EC134.runs/synth_1/testing1004.vds
+# Journal file: /home/kunal/Kunal_PES1UG22EC134/Kunal_PES1UG22EC134.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source testing1004.tcl -notrace
