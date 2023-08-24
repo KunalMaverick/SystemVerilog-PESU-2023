@@ -13,11 +13,11 @@ This is a repository containing all the projects/experiments that would be cover
 4. You must have WINRAR on your PC.
 5. We will be using Vivado 2018.3 version but any version will work post 2018 ML Editions exist and those consume more space, hence we are using the pervious versions.
 6. The following are the specs of the FPGA that we will be using in our lab
-    Name: Basys 3 Artix-7 FPGA Board
-    Family: Artix-7
-    Package: cpg-236
-    Speed grade: -1
-    Part Name: xc7a35tcpg236-1
+    Name: Basys 3 Artix-7 FPGA Board <br/>
+    Family: Artix-7 <br/>
+    Package: cpg-236 <br/>
+    Speed grade: -1 <br/>
+    Part Name: xc7a35tcpg236-1 <br/>
 
 
 
