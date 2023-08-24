@@ -3,7 +3,7 @@ This is a repository containing all the projects/experiments that would be cover
 
 
 
-# How to download **XILINX Vivado** on your Laptop:
+# How to download **XILINX Vivado** on your Windows Laptop:
 
 ##**NOTE**
  
