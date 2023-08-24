@@ -1,6 +1,15 @@
 # SystemVerilog-PESU-2023
 This is a repository containing all the projects/experiments that would be covered under the course called "COMPUTER AIDED DIGITAL DESIGN" curated for Electronics and Communication Sophomore students at PES-University, Ring Road Campus. We will be using Xilinx FGPA and Vivado Software for this course.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 # How to download **XILINX Vivado** on your Windows Laptop:
@@ -85,19 +94,38 @@ This is a repository containing all the projects/experiments that would be cover
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
 
 
-# Made by with ❤️ by Mallikarjun Yeshlur and Kunal Kishore <br/>
+<h3 align="center"> Made by with ❤️ by Mallikarjun Yeshlur and Kunal Kishore </h3> 
+<br/>
 
-# Mallikarjun Yeshlur <br/>
+<h3> Mallikarjun Yeshlur </h3>
+
 ### *Email: mallikarjun.yeshlur@gmail.com*  <br/>
 ### *Linkedin: www.linkedin.com/in/mallikarjun-yeshlur-bb3907250*  <br/>
 ### *Github: https://github.com/Mallikyesh*  <br/>
+<br/>
+<br/>
+<br/>
 
-# Kunal Kishore <br/>
+
+<h3> Kunal Kishore </h3> 
+
 ### *Email: kunalkishoremaverick@gmail.com*  <br/>
 ### *Linkedin: www.linkedin.com/in/kunal-kishore-716a83176*  <br/>
 ### *Github: https://github.com/KunalMaverick*  <br/>
