@@ -92,7 +92,7 @@ This is a repository containing all the projects/experiments that would be cover
 
 # Made by with ❤️ by Mallikarjun Yeshlur and Kunal Kishore <br/>
 
-# Mallikarjun Yeshalur <br/>
+# Mallikarjun Yeshlur <br/>
 ### *Email: mallikarjun.yeshlur@gmail.com*  <br/>
 ### *Linkedin: www.linkedin.com/in/mallikarjun-yeshlur-bb3907250*  <br/>
 ### *Github: https://github.com/Mallikyesh*  <br/>
