@@ -5,12 +5,6 @@ This is a repository containing all the projects/experiments that would be cover
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
 # How to download **XILINX Vivado** on your Windows Laptop:
 
