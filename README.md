@@ -3,7 +3,7 @@ This is a repository containing all the projects/experiments that would be cover
 
 # How to download **XILINX Vivado** on your Windows Laptop:
 
-##**NOTE**
+**NOTE**
  
 1. Vivado is not supported on **MacOS**.
 2. Vivado is around **60gb** in total.
