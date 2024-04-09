@@ -100,7 +100,7 @@ This is a repository containing all the projects/experiments that would be cover
 
 
 
-<h3 align="center"> Made by with ❤️ by Mallikarjun Yeshlur and Kunal Kishore </h3> 
+<h3 align="center"> Made with ❤️ by Mallikarjun Yeshlur and Kunal Kishore </h3> 
 <br/>
 
 <h3> Mallikarjun Yeshlur </h3>
