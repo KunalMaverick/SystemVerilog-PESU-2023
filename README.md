@@ -6,7 +6,7 @@ This is a repository containing all the projects/experiments that would be cover
 **NOTE**
  
 1. Vivado is not supported on **MacOS**.
-2. Vivado is around **60gb** in total.
+2. Vivado is around **60Gb** in total.
 3. You must have **MinGW** installed before you try running any simulation on your PC.
 4. You must have WINRAR on your PC.
 5. We will be using Vivado 2018.3 version but any version will work post 2018 ML Editions exist and those consume more space, hence we are using the pervious versions.
