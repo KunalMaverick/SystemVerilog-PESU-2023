@@ -1,11 +1,11 @@
 # SystemVerilog-PESU-2023
-This is a repository containing all the projects/experiments that would be covered under the course called "COMPUTER AIDED DIGITAL DESIGN" curated for Electronics and Communication Sophomore students at PES-University, Ring Road Campus. We will be using Xilinx FGPA and Vivado Software for this course.
+This is a repository with step by step guide to downlaod software that would be used the course called "COMPUTER AIDED DIGITAL DESIGN" curated for Electronics and Communication Sophomore students at PES-University, Ring Road Campus. We will be using Xilinx FGPA and Vivado Software for this course.
 
 # How to download **XILINX Vivado** on your Windows Laptop:
 
 **NOTE**
  
-1. Vivado is not supported on **MacOS**.
+1. Vivado is not supported on **MacOS**. (You can use Virtual Machine)
 2. Vivado is around **60Gb** in total.
 3. You must have **MinGW** installed before you try running any simulation on your PC.
 4. You must have WINRAR on your PC.
